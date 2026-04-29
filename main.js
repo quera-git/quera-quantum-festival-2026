@@ -23,7 +23,7 @@ const translations = {
     'hero.kpi.networking': '👥 네트워킹',
     'about.title': '행사 소개',
     'about.description':
-      '<strong>제2회 Qu<span style="color:#D21732">ERA</span> Quantum Festival</strong>은 부산대학교 양자컴퓨팅 동아리 <strong>Qu<span style="color:#D21732">ERA</span></strong>가 주최하는 1박 2일 양자컴퓨팅 행사입니다. 이번 행사는 <strong>QCNN(Quantum Convolutional Neural Network)</strong>을 메인 주제로, 양자 컴퓨팅을 처음 접하는 초보자도 강연·실습·해커톤·네트워킹을 통해 양자 회로 설계와 AI 응용을 직접 경험할 수 있도록 구성되어 있습니다.',
+      '<strong>제2회 Qu<span style="color:#D21732">ERA</span> Quantum Festival</strong>은 부산대학교 양자컴퓨팅 동아리 <strong>Qu<span style="color:#D21732">ERA</span></strong>가 주최하는 양일간 양자컴퓨팅 행사입니다. 이번 행사는 <strong>QCNN(Quantum Convolutional Neural Network)</strong>을 메인 주제로, 양자 컴퓨팅을 처음 접하는 초보자도 강연·실습·해커톤·네트워킹을 통해 양자 회로 설계와 AI 응용을 직접 경험할 수 있도록 구성되어 있습니다.',
     'about.audience': '<strong>대상:</strong> 부산대학교 학생 (전공 무관)',
     'about.requirements': '<strong>준비물:</strong> 노트북(RAM 8GB+), Python 3.10+, Qiskit, IBM Quantum 계정',
     'about.level': '<strong>난이도:</strong> 입문~초급 (기초 파이썬·선형대수 권장)',
@@ -67,9 +67,9 @@ const translations = {
     'language.option.ko': '한국어 (KR)',
     'language.option.en': '영어 (EN)',
     'meta.title': '제2회 QuERA Quantum Festival | 부산',
-    'meta.description': '2026년 5월 22~23일 부산대학교에서 열리는 제2회 QuERA Quantum Festival. QCNN을 주제로 한 1박 2일 양자컴퓨팅 강의·실습·해커톤.',
+    'meta.description': '2026년 5월 22~23일 부산대학교에서 열리는 제2회 QuERA Quantum Festival. QCNN을 주제로 한 양일간 양자컴퓨팅 강의·실습·해커톤.',
     'meta.ogTitle': '제2회 QuERA Quantum Festival | 부산',
-    'meta.ogDescription': 'QCNN을 주제로 한 1박 2일 양자컴퓨팅 해커톤. 5월 17일까지 무료 등록!',
+    'meta.ogDescription': 'QCNN을 주제로 한 양일간 양자컴퓨팅 해커톤. 5월 17일까지 무료 등록!',
     'meta.ogLocale': 'ko_KR'
   },
   en: {
