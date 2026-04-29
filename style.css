@@ -522,9 +522,8 @@ footer {
 
 .tag {
   display: inline-block;
-  font-size: 1.17rem;
-  font-weight: 700;
-  padding: 8px 14px;
+  font-size: 0.8rem;
+  padding: 6px 10px;
   border-radius: 999px;
   border: 1px solid rgba(0, 0, 0, 0.08);
   background: rgba(0, 0, 0, 0.02);
