@@ -11,10 +11,10 @@
 > 
 > 제2회 QuERA Quantum Festival 홍보 페이지입니다.
 >
-> 부산대학교 양자컴퓨팅동아리 QuERA가 주최하는 양일간 양자컴퓨팅 행사로,
-> QCNN(Quantum Convolutional Neural Network)을 메인 주제로 한 강의·실습·해커톤이 진행됩니다.
+> 부산대학교 양자컴퓨팅동아리 QuERA가 주최하는 양자컴퓨팅 입문 행사로,
+> QCNN(Quantum Convolutional Neural Network)을 메인 주제로 한 강의·실습·퀴즈·네트워킹이 진행됩니다.
 > 
-> 행사 일자: 2026.05.22 (금) - 05.23 (토)
+> 행사 일자: 2026.05.29 (금) 10:00 - 18:00
 >
 
 ## 🛠️참여자
@@ -28,15 +28,7 @@
 <sub><b>KimHaejoong1</b></sub>
 </a>
 <br />
-</td>
-<td align="center">
-<a href="https://github.com/SonJH7">
-<img src="https://avatars.githubusercontent.com/u/129269335?v=4" width="80" alt=""/>
-<br />
-<sub><b>SonJH7</b></sub>
-</a>
-<br />
-</td>
+
 </tr>
 </table>
 
