@@ -35,3 +35,5 @@
 ## 🌐링크
 
 [![QuERA Quantum Festival 2026](https://img.shields.io/badge/Visit-QuERA%20Quantum%20Festival%202026-7050ef?style=for-the-badge&logo=github&logoColor=white)](https://quera-git.github.io/quera-quantum-festival-2026/)
+
+[![QuERA Quantum Festival 2026 Register](https://img.shields.io/badge/Visit-Register-7050ef?style=for-the-badge&logo=github&logoColor=white)](https://forms.gle/MgFiQtfwHefWVNk77)
