@@ -46,8 +46,8 @@ const translations = {
     'cta.moreInfo': '상세 안내(노션)',
     'venue.title': '장소',
     'venue.address':
-      '<strong>부산대학교 IT관 정보컴퓨터공학부 강의실</strong> (강의실 호수 추후 공지)<br />부산광역시 금정구 부산대학로63번길 2 (장전동)',
-    'venue.note': '강의실 호수 및 세부 입장 동선은 행사 전 참가자 안내 메일로 공지됩니다.',
+      '<strong>부산대학교 IT관 정보컴퓨터공학부 306호</strong><br />부산광역시 금정구 부산대학로63번길 2 (장전동)',
+    'venue.note': '세부 입장 동선은 행사 전 참가자 안내 메일로 공지됩니다.',
     'faq.title': 'FAQ',
     'faq.q1': '비전공자도 참여 가능한가요?',
     'faq.a1': '네. 사전 자료를 제공하고, 오전의 기초 강의·튜토리얼을 통해 처음 접하는 분도 따라올 수 있도록 구성됩니다.',
@@ -111,8 +111,8 @@ const translations = {
     'cta.moreInfo': 'More info (Notion)',
     'venue.title': 'Venue',
     'venue.address':
-      '<strong>Pusan National University, IT Building (Dept. of Computer Science & Engineering), Lecture Room</strong> (room number TBA)<br />2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan',
-    'venue.note': 'Room number and entry guidance will be emailed to participants before the event.',
+      '<strong>Pusan National University, IT Building (Dept. of Computer Science & Engineering), Room 306</strong><br />2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan',
+    'venue.note': 'Entry guidance will be emailed to participants before the event.',
     'faq.title': 'FAQ',
     'faq.q1': 'Can non-majors participate?',
     'faq.a1': 'Yes! Prep materials are shared, and the morning session begins with introductory lectures and tutorials so that newcomers can follow along.',
